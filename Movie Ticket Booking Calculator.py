@@ -1,0 +1,3 @@
+#Movie Ticket Booking Calculator......
+Customer_name= input("enter Customer name : ")
+age=int(input("enter Customer age : "))
