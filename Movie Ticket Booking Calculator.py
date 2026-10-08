@@ -7,3 +7,4 @@ print("Customer name : ",Customer_name)
 print("age : ",age)
 print("number of ticket :",number_of_ticket)
 print("ticke price : ",ticket_price)
+if age<0:
