@@ -8,3 +8,4 @@ print("age : ",age)
 print("number of ticket :",number_of_ticket)
 print("ticke price : ",ticket_price)
 if age<0:
+    print("Invalid age")
